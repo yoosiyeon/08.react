@@ -1,0 +1,5 @@
+react
+
+1. vscode, intelij
+2. node 설치
+3. React developer tools 크롬 프로그인
